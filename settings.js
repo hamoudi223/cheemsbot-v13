@@ -17,7 +17,7 @@ global.location = "Nalhati, Birbhum, WB,INDIA  " //ur location
 
 //new
 global.botname = '꧁﴿»✥«·-𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘-𝕭𝖔𝖙-·»✥«﴾꧂' //ur bot name
-global.ownernumber = '22390633817' //ur owner number
+global.ownernumber = '22395064497' //ur owner number
 global.ownername = '꧁﴿☬ 𝔇𝔢vilous ☬﴾꧂™' //ur owner name
 global.websitex = "https://www.facebook.com/Debashi.Dey.X1/"
 global.wagc = "https://chat.whatsapp.com/C4NU6KefgoLL9W8vpbhbEY"
