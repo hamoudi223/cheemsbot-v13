@@ -17,7 +17,7 @@ global.location = "Nalhati, Birbhum, WB,INDIA  " //ur location
 
 //new
 global.botname = '꧁﴿»✥«·-𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘-𝕭𝖔𝖙-·»✥«﴾꧂' //ur bot name
-global.ownernumber = '22390633817' //ur owner number
+global.ownernumber = '22395064497' //ur owner number
 global.ownername = '꧁﴿☬ 𝔇𝔢vilous ☬﴾꧂™' //ur owner name
 global.websitex = "https://www.facebook.com/Debashi.Dey.X1/"
 global.wagc = "https://chat.whatsapp.com/C4NU6KefgoLL9W8vpbhbEY"
@@ -26,7 +26,7 @@ global.wm = "𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝕸𝖚𝖑𝖙𝖎𝖉𝖊𝖛�
 global.botscript = 'https://github.com/DebashisX1/cheemsbot-v12' //script link
 global.packname = "Sticker By"
 global.author = "Devilous\n\n+919339619072"
-global.creator = "22390633817@s.whatsapp.net"
+global.creator = "22395064497@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["22390633817"] // Premium User
 global.hituet = 0
